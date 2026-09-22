@@ -71,5 +71,3 @@ def is_anagram(s1,s2):
 s='hello'
 s2='olleh'
 print(is_anagram(s,s2))
-
-
