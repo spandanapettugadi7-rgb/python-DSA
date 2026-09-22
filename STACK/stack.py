@@ -1,4 +1,4 @@
-[3:01 pm, 08/09/2026] 🦋: class Stack:
+class Stack:
   def _init_(self):
     self._a=[]
     self._top=None
